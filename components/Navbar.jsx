@@ -1,6 +1,7 @@
 "use client"
 
 import Image from "next/image"
+import Link from "next/link"
 import logo from "../app/favicon.ico"
 export default function Navbar() {
   return (
@@ -8,13 +9,13 @@ export default function Navbar() {
       <div className="container">
 
         {/* Logo */}
-        <a className="navbar-brand d-flex align-items-center" href="#">
+        <Link className="navbar-brand d-flex align-items-center" href="/">
           <div className="logo-circle me-2"><Image src={logo} alt="Humaira Hossain" title="Humaira Hossain"></Image></div>
           <div>
             <div className="fw-bold text-white">Humaira Hossain Methela</div>
             <small className="text-muted">React & Next  js Developer</small>
           </div>
-        </a>
+        </Link>
 
         {/* Toggle */}
         <button

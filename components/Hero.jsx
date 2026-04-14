@@ -2,10 +2,10 @@ export default function Hero() {
   return (
     <section className="hero-section d-flex align-items-center">
       <div className="container text-center">
-
-        <div className="welcome-pill mb-4">
+        {/* 
+        <div className="welcome-pill mt-5">
           ⭐ Welcome to my universe
-        </div>
+        </div> */}
 
         <h1 className="hero-title">
           <span className="gradient-text">React and Next js Developer</span>

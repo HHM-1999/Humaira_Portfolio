@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import React from "react";
 import banglaDeshkal from "../app/assets/media/bangla_deshkal.png";
 import barta from "../app/assets/media/barta.png";
@@ -13,6 +14,7 @@ const projects = [
     // desc: "A multiplayer Pong game with a modern twist, built using Next.js, TailwindCSS, and Django.",
     tags: ["React.js", "Bootstrap", "React Router", "React Context API", "React Hooks"],
     img: thenews24,
+    sitelink: "https://www.thenews24.com/",
     // featured: true,
   },
   {
@@ -20,6 +22,7 @@ const projects = [
     // desc: "Modern Todo app built with React, Redux, TypeScript.",
     tags: ["React.js", "Bootstrap", "React Router", "React Context API", "React Hooks"],
     img: barta,
+    sitelink: "https://www.barta24.com/",
     // featured: true,
   },
   {
@@ -29,22 +32,25 @@ const projects = [
     img: deshkal,
   },
   {
-    title: "Bangla.Deshkal.com",
+    title: "Deshkal.com",
     // desc: "Internet Relay Chat server project",
     tags: ["React.js", "Bootstrap", "React Router", "React Context API", "React Hooks"],
     img: banglaDeshkal,
+    sitelink: "https://deshkalnews.com/",
   },
   {
     title: "Channel24bd.tv",
     // desc: "Raycasting 3D game",
     tags: ["React.js", "Bootstrap", "React Router", "React Context API", "React Hooks", "DOM Manipulation"],
     img: channel24,
+    sitelink: "https://www.channel24bd.tv/",
   },
   {
     title: "Bangladesh Guardian.com",
     // desc: "Shell implementation",
     tags: ["React.js", "Bootstrap", "React Router", "React Context API", "React Hooks"],
     img: bdGuardian,
+    sitelink: "https://www.bangladeshguardian.com/",
   },
 ];
 
@@ -75,7 +81,11 @@ export default function ProjectsSection() {
                 ))}
               </div>
 
-              <div className="code">View Code</div>
+              {p.sitelink && (
+                <Link href={p.sitelink} target="_blank" rel="noopener noreferrer">
+                  <div className="code">View Site</div>
+                </Link>
+              )}
             </div>
 
           </div>

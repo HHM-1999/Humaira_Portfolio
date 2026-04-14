@@ -2,17 +2,15 @@ import React from "react";
 
 const skills = [
   { name: "Next.js", percent: 90 },
-  { name: "React", percent: 85 },
+  { name: "React", percent: 95 },
   { name: "TypeScript", percent: 80 },
   { name: "Tailwind CSS", percent: 85 },
+  { name: "Bootstrap CSS", percent: 95 },
   { name: "JavaScript", percent: 95 },
-  { name: "HTML", percent: 95 },
-  { name: "CSS", percent: 90 },
+  { name: "HTML", percent: 100 },
+  { name: "CSS", percent: 100 },
   { name: "Git", percent: 80 },
   { name: "Node.js", percent: 85 },
-  { name: "Docker", percent: 70 },
-  { name: "C", percent: 60 },
-  { name: "C++", percent: 75 },
 ];
 
 export default function SkillsSection() {

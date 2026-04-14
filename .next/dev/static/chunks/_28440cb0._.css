@@ -13351,16 +13351,6 @@ body {
   background: #000000d9 !important;
 }
 
-.hero-section {
-  color: #fff;
-  text-align: center;
-  background: linear-gradient(135deg, #111, #222);
-  align-items: center;
-  height: 100vh;
-  padding-top: 70px;
-  display: flex;
-}
-
 .backToTop {
   color: #fff;
   cursor: pointer;
@@ -13498,7 +13488,12 @@ body {
 }
 
 .hero-section {
-  min-height: 100vh;
+  color: #fff;
+  text-align: center;
+  background: linear-gradient(135deg, #111, #222);
+  align-items: center;
+  padding: 100px 0;
+  display: flex;
   position: relative;
   overflow: hidden;
 }
@@ -13520,6 +13515,7 @@ body {
 
 .welcome-pill {
   border-radius: 50px;
+  margin-top: 50px;
   padding: 10px 25px;
   font-weight: 600;
   animation: 2s infinite alternate glow;
@@ -13528,10 +13524,10 @@ body {
 }
 
 .hero-title {
-  margin-top: 25px;
-  font-size: 5rem;
+  margin-top: 60px;
+  font-size: 65px;
   font-weight: 800;
-  line-height: 1.2;
+  line-height: 75px;
 }
 
 .gradient-text {
@@ -13662,7 +13658,6 @@ hr {
 .experi-Section {
   color: #fff;
   background: linear-gradient(135deg, #111, #222);
-  min-height: 100vh;
   position: relative;
   overflow: hidden;
 }
@@ -13781,7 +13776,6 @@ hr {
   color: #fff;
   text-align: center;
   background: #050505;
-  min-height: 100vh;
   padding: 80px 20px;
   position: relative;
   overflow: hidden;
@@ -14006,7 +14000,6 @@ hr {
 .contact-section {
   color: #fff;
   background: radial-gradient(circle at top, #0f0f1a, #050508);
-  min-height: 100vh;
   padding: 80px 0;
   position: relative;
   overflow: hidden;
@@ -14044,6 +14037,7 @@ x .contact-subtitle {
   background: #ffffff0a;
   border: 1px solid #ffffff14;
   border-radius: 16px;
+  min-height: 20vh;
   padding: 30px;
 }
 

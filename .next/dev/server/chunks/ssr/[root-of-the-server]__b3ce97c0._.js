@@ -695,14 +695,6 @@ function Hero() {
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "container text-center",
             children: [
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "welcome-pill mb-4",
-                    children: "⭐ Welcome to my universe"
-                }, void 0, false, {
-                    fileName: "[project]/components/Hero.jsx",
-                    lineNumber: 6,
-                    columnNumber: 9
-                }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                     className: "hero-title",
                     children: [
@@ -960,6 +952,7 @@ __turbopack_context__.s([
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/client/app-dir/link.react-server.js [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react.js [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$assets$2f$media$2f$bangla_deshkal$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$app$2f$assets$2f$media$2f$bangla_deshkal$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/app/assets/media/bangla_deshkal.png.mjs { IMAGE => "[project]/app/assets/media/bangla_deshkal.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
 var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$assets$2f$media$2f$barta$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$app$2f$assets$2f$media$2f$barta$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/app/assets/media/barta.png.mjs { IMAGE => "[project]/app/assets/media/barta.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
@@ -967,6 +960,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$assets$2f$media$2f$bd
 var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$assets$2f$media$2f$channel24$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$app$2f$assets$2f$media$2f$channel24$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/app/assets/media/channel24.png.mjs { IMAGE => "[project]/app/assets/media/channel24.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
 var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$assets$2f$media$2f$deshkal$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$app$2f$assets$2f$media$2f$deshkal$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/app/assets/media/deshkal.png.mjs { IMAGE => "[project]/app/assets/media/deshkal.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
 var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$assets$2f$media$2f$thenews24$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$app$2f$assets$2f$media$2f$thenews24$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/app/assets/media/thenews24.png.mjs { IMAGE => "[project]/app/assets/media/thenews24.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
+;
 ;
 ;
 ;
@@ -987,7 +981,8 @@ const projects = [
             "React Context API",
             "React Hooks"
         ],
-        img: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$assets$2f$media$2f$thenews24$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$app$2f$assets$2f$media$2f$thenews24$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"]
+        img: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$assets$2f$media$2f$thenews24$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$app$2f$assets$2f$media$2f$thenews24$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        sitelink: "https://www.thenews24.com/"
     },
     {
         title: "Barta 24.com",
@@ -999,7 +994,8 @@ const projects = [
             "React Context API",
             "React Hooks"
         ],
-        img: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$assets$2f$media$2f$barta$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$app$2f$assets$2f$media$2f$barta$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"]
+        img: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$assets$2f$media$2f$barta$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$app$2f$assets$2f$media$2f$barta$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        sitelink: "https://www.barta24.com/"
     },
     {
         title: "DeshkalNews.com",
@@ -1014,7 +1010,7 @@ const projects = [
         img: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$assets$2f$media$2f$deshkal$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$app$2f$assets$2f$media$2f$deshkal$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"]
     },
     {
-        title: "Bangla.Deshkal.com",
+        title: "Deshkal.com",
         // desc: "Internet Relay Chat server project",
         tags: [
             "React.js",
@@ -1023,7 +1019,8 @@ const projects = [
             "React Context API",
             "React Hooks"
         ],
-        img: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$assets$2f$media$2f$bangla_deshkal$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$app$2f$assets$2f$media$2f$bangla_deshkal$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"]
+        img: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$assets$2f$media$2f$bangla_deshkal$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$app$2f$assets$2f$media$2f$bangla_deshkal$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        sitelink: "https://deshkalnews.com/"
     },
     {
         title: "Channel24bd.tv",
@@ -1036,7 +1033,8 @@ const projects = [
             "React Hooks",
             "DOM Manipulation"
         ],
-        img: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$assets$2f$media$2f$channel24$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$app$2f$assets$2f$media$2f$channel24$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"]
+        img: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$assets$2f$media$2f$channel24$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$app$2f$assets$2f$media$2f$channel24$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        sitelink: "https://www.channel24bd.tv/"
     },
     {
         title: "Bangladesh Guardian.com",
@@ -1048,7 +1046,8 @@ const projects = [
             "React Context API",
             "React Hooks"
         ],
-        img: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$assets$2f$media$2f$bdguardian$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$app$2f$assets$2f$media$2f$bdguardian$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"]
+        img: __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$assets$2f$media$2f$bdguardian$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$app$2f$assets$2f$media$2f$bdguardian$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        sitelink: "https://www.bangladeshguardian.com/"
     }
 ];
 function ProjectsSection() {
@@ -1060,7 +1059,7 @@ function ProjectsSection() {
                 children: "Selected Projects"
             }, void 0, false, {
                 fileName: "[project]/components/ProjectsSection.jsx",
-                lineNumber: 54,
+                lineNumber: 60,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1068,7 +1067,7 @@ function ProjectsSection() {
                 children: "Blending design and development to create fast, modern web experiences"
             }, void 0, false, {
                 fileName: "[project]/components/ProjectsSection.jsx",
-                lineNumber: 55,
+                lineNumber: 61,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1081,7 +1080,7 @@ function ProjectsSection() {
                                 children: "Featured"
                             }, void 0, false, {
                                 fileName: "[project]/components/ProjectsSection.jsx",
-                                lineNumber: 63,
+                                lineNumber: 69,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
@@ -1093,7 +1092,7 @@ function ProjectsSection() {
                                 title: p.title
                             }, void 0, false, {
                                 fileName: "[project]/components/ProjectsSection.jsx",
-                                lineNumber: 66,
+                                lineNumber: 72,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1103,7 +1102,7 @@ function ProjectsSection() {
                                         children: p.title
                                     }, void 0, false, {
                                         fileName: "[project]/components/ProjectsSection.jsx",
-                                        lineNumber: 69,
+                                        lineNumber: 75,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1112,43 +1111,52 @@ function ProjectsSection() {
                                                 children: t
                                             }, k, false, {
                                                 fileName: "[project]/components/ProjectsSection.jsx",
-                                                lineNumber: 74,
+                                                lineNumber: 80,
                                                 columnNumber: 19
                                             }, this))
                                     }, void 0, false, {
                                         fileName: "[project]/components/ProjectsSection.jsx",
-                                        lineNumber: 72,
-                                        columnNumber: 15
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "code",
-                                        children: "View Code"
-                                    }, void 0, false, {
-                                        fileName: "[project]/components/ProjectsSection.jsx",
                                         lineNumber: 78,
                                         columnNumber: 15
+                                    }, this),
+                                    p.sitelink && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                        href: p.sitelink,
+                                        target: "_blank",
+                                        rel: "noopener noreferrer",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "code",
+                                            children: "View Site"
+                                        }, void 0, false, {
+                                            fileName: "[project]/components/ProjectsSection.jsx",
+                                            lineNumber: 86,
+                                            columnNumber: 19
+                                        }, this)
+                                    }, void 0, false, {
+                                        fileName: "[project]/components/ProjectsSection.jsx",
+                                        lineNumber: 85,
+                                        columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/ProjectsSection.jsx",
-                                lineNumber: 68,
+                                lineNumber: 74,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, i, true, {
                         fileName: "[project]/components/ProjectsSection.jsx",
-                        lineNumber: 60,
+                        lineNumber: 66,
                         columnNumber: 11
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/components/ProjectsSection.jsx",
-                lineNumber: 58,
+                lineNumber: 64,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/components/ProjectsSection.jsx",
-        lineNumber: 53,
+        lineNumber: 59,
         columnNumber: 5
     }, this);
 }
@@ -1171,7 +1179,7 @@ const skills = [
     },
     {
         name: "React",
-        percent: 85
+        percent: 95
     },
     {
         name: "TypeScript",
@@ -1182,16 +1190,20 @@ const skills = [
         percent: 85
     },
     {
+        name: "Bootstrap CSS",
+        percent: 95
+    },
+    {
         name: "JavaScript",
         percent: 95
     },
     {
         name: "HTML",
-        percent: 95
+        percent: 100
     },
     {
         name: "CSS",
-        percent: 90
+        percent: 100
     },
     {
         name: "Git",
@@ -1200,18 +1212,6 @@ const skills = [
     {
         name: "Node.js",
         percent: 85
-    },
-    {
-        name: "Docker",
-        percent: 70
-    },
-    {
-        name: "C",
-        percent: 60
-    },
-    {
-        name: "C++",
-        percent: 75
     }
 ];
 function SkillsSection() {
@@ -1222,14 +1222,14 @@ function SkillsSection() {
                 className: "glow glow1"
             }, void 0, false, {
                 fileName: "[project]/components/SkillsSection.jsx",
-                lineNumber: 22,
+                lineNumber: 20,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "glow glow2"
             }, void 0, false, {
                 fileName: "[project]/components/SkillsSection.jsx",
-                lineNumber: 23,
+                lineNumber: 21,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -1237,7 +1237,7 @@ function SkillsSection() {
                 children: "Skills & Technologies"
             }, void 0, false, {
                 fileName: "[project]/components/SkillsSection.jsx",
-                lineNumber: 25,
+                lineNumber: 23,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1248,13 +1248,13 @@ function SkillsSection() {
                         children: "ideas to life"
                     }, void 0, false, {
                         fileName: "[project]/components/SkillsSection.jsx",
-                        lineNumber: 27,
+                        lineNumber: 25,
                         columnNumber: 42
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/SkillsSection.jsx",
-                lineNumber: 26,
+                lineNumber: 24,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1267,7 +1267,7 @@ function SkillsSection() {
                                 children: "⚙️"
                             }, void 0, false, {
                                 fileName: "[project]/components/SkillsSection.jsx",
-                                lineNumber: 33,
+                                lineNumber: 31,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1275,7 +1275,7 @@ function SkillsSection() {
                                 children: s.name
                             }, void 0, false, {
                                 fileName: "[project]/components/SkillsSection.jsx",
-                                lineNumber: 35,
+                                lineNumber: 33,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1287,23 +1287,23 @@ function SkillsSection() {
                                     }
                                 }, void 0, false, {
                                     fileName: "[project]/components/SkillsSection.jsx",
-                                    lineNumber: 38,
+                                    lineNumber: 36,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/components/SkillsSection.jsx",
-                                lineNumber: 37,
+                                lineNumber: 35,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, i, true, {
                         fileName: "[project]/components/SkillsSection.jsx",
-                        lineNumber: 32,
+                        lineNumber: 30,
                         columnNumber: 11
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/components/SkillsSection.jsx",
-                lineNumber: 30,
+                lineNumber: 28,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1316,20 +1316,20 @@ function SkillsSection() {
                                 children: "12+"
                             }, void 0, false, {
                                 fileName: "[project]/components/SkillsSection.jsx",
-                                lineNumber: 49,
+                                lineNumber: 47,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "Technologies"
                             }, void 0, false, {
                                 fileName: "[project]/components/SkillsSection.jsx",
-                                lineNumber: 50,
+                                lineNumber: 48,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/SkillsSection.jsx",
-                        lineNumber: 48,
+                        lineNumber: 46,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1339,20 +1339,20 @@ function SkillsSection() {
                                 children: "15+"
                             }, void 0, false, {
                                 fileName: "[project]/components/SkillsSection.jsx",
-                                lineNumber: 54,
+                                lineNumber: 52,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "Projects"
                             }, void 0, false, {
                                 fileName: "[project]/components/SkillsSection.jsx",
-                                lineNumber: 55,
+                                lineNumber: 53,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/SkillsSection.jsx",
-                        lineNumber: 53,
+                        lineNumber: 51,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1362,20 +1362,20 @@ function SkillsSection() {
                                 children: "2+"
                             }, void 0, false, {
                                 fileName: "[project]/components/SkillsSection.jsx",
-                                lineNumber: 59,
+                                lineNumber: 57,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "Experience"
                             }, void 0, false, {
                                 fileName: "[project]/components/SkillsSection.jsx",
-                                lineNumber: 60,
+                                lineNumber: 58,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/SkillsSection.jsx",
-                        lineNumber: 58,
+                        lineNumber: 56,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1385,32 +1385,32 @@ function SkillsSection() {
                                 children: "∞"
                             }, void 0, false, {
                                 fileName: "[project]/components/SkillsSection.jsx",
-                                lineNumber: 64,
+                                lineNumber: 62,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "Coffee Cups"
                             }, void 0, false, {
                                 fileName: "[project]/components/SkillsSection.jsx",
-                                lineNumber: 65,
+                                lineNumber: 63,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/SkillsSection.jsx",
-                        lineNumber: 63,
+                        lineNumber: 61,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/SkillsSection.jsx",
-                lineNumber: 47,
+                lineNumber: 45,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/components/SkillsSection.jsx",
-        lineNumber: 20,
+        lineNumber: 18,
         columnNumber: 5
     }, this);
 }
