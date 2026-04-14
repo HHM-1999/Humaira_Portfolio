@@ -56,7 +56,7 @@ const projects = [
 
 export default function ProjectsSection() {
   return (
-    <section className="projects">
+    <section className="projects" id="projects">
       <h2 className="title">Selected Projects</h2>
       <p className="subtitle">
         Blending design and development to create fast, modern web experiences

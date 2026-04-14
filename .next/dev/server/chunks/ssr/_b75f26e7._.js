@@ -44,7 +44,7 @@ function AboutMe() {
         // Counter animation for years
         let yearCount = 0;
         const yearInterval = setInterval(()=>{
-            if (yearCount < 2) {
+            if (yearCount < 3) {
                 yearCount += 1;
                 setYears(yearCount);
             } else {
@@ -54,7 +54,7 @@ function AboutMe() {
         // Counter animation for projects
         let projectCount = 0;
         const projectInterval = setInterval(()=>{
-            if (projectCount < 15) {
+            if (projectCount < 25) {
                 projectCount += 1;
                 setProjects(projectCount);
             } else {
@@ -68,6 +68,7 @@ function AboutMe() {
     }, []);
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
         className: "py-5 about-section",
+        id: "about",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "container",
             children: [
@@ -372,7 +373,7 @@ function Navbar() {
                                 className: "nav-item",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                     className: "nav-link active",
-                                    href: "#",
+                                    href: "/",
                                     children: "Home"
                                 }, void 0, false, {
                                     fileName: "[project]/components/Navbar.jsx",

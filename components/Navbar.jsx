@@ -30,7 +30,7 @@ export default function Navbar() {
         {/* Menu */}
         <div className="collapse navbar-collapse justify-content-end" id="navMenu">
           <ul className="navbar-nav nav-pill">
-            <li className="nav-item"><a className="nav-link active" href="#">Home</a></li>
+            <li className="nav-item"><a className="nav-link active" href="/">Home</a></li>
             <li className="nav-item"><a className="nav-link" href="#about">About</a></li>
             <li className="nav-item"><a className="nav-link" href="#experience">Experience</a></li>
             <li className="nav-item"><a className="nav-link" href="#skills">Skills</a></li>

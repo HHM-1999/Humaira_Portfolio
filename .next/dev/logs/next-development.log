@@ -209,3 +209,35 @@ Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
 [00:39:41.466] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
 [00:40:05.853] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
 [00:40:11.569] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:46:21.999] Server  LOG     ✓ Compiled in 106ms
+[00:47:27.711] Server  LOG     ✓ Compiled in 58ms
+[00:47:31.881] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:32.008] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:47:47.903] Server  LOG     ✓ Compiled in 6ms
+[00:47:53.622] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:53.735] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:49:38.988] Server  LOG     ✓ Compiled in 18ms
+[00:51:50.395] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:51:50.609] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:52:57.936] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:52:58.057] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:56:45.741] Server  LOG     ✓ Compiled in 90ms
+[00:57:07.834] Server  LOG     ✓ Compiled in 6ms
+[00:57:26.217] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:57:32.223] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:57:32.339] Browser WARN    Image with src "/_next/static/media/favicon.7399839b.ico" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:57:32.339] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:57:44.907] Server  LOG     ✓ Compiled in 10ms
+[00:57:49.906] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:57:50.027] Browser WARN    Image with src "/_next/static/media/favicon.7399839b.ico" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:57:50.027] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:57:57.840] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:57:57.952] Browser WARN    Image with src "/_next/static/media/favicon.7399839b.ico" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:57:57.952] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:59:39.703] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:59:39.823] Browser WARN    Image with src "/_next/static/media/favicon.7399839b.ico" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:59:39.823] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.

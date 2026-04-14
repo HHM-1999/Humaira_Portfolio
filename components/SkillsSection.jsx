@@ -15,7 +15,7 @@ const skills = [
 
 export default function SkillsSection() {
   return (
-    <section className="skills-section">
+    <section className="skills-section" id="skills">
 
       <div className="glow glow1"></div>
       <div className="glow glow2"></div>
@@ -49,12 +49,12 @@ export default function SkillsSection() {
         </div>
 
         <div className="stat-box">
-          <h3>15+</h3>
+          <h3>25+</h3>
           <p>Projects</p>
         </div>
 
         <div className="stat-box">
-          <h3>2+</h3>
+          <h3>3+</h3>
           <p>Experience</p>
         </div>
 

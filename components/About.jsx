@@ -12,7 +12,7 @@ export default function AboutMe() {
     // Counter animation for years
     let yearCount = 0;
     const yearInterval = setInterval(() => {
-      if (yearCount < 2) {
+      if (yearCount < 3) {
         yearCount += 1;
         setYears(yearCount);
       } else {
@@ -23,7 +23,7 @@ export default function AboutMe() {
     // Counter animation for projects
     let projectCount = 0;
     const projectInterval = setInterval(() => {
-      if (projectCount < 15) {
+      if (projectCount < 25) {
         projectCount += 1;
         setProjects(projectCount);
       } else {
@@ -38,7 +38,7 @@ export default function AboutMe() {
   }, []);
 
   return (
-    <section className="py-5 about-section">
+    <section className="py-5 about-section" id='about'>
       <div className="container">
         <div className="text-center mb-5">
           <h2 className="fw-bold me-title">Get to know the person behind the code</h2>
