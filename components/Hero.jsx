@@ -8,19 +8,14 @@ export default function Hero() {
         </div> */}
 
         <h1 className="hero-title">
-          <span className="gradient-text">React and Next js Developer</span>
+          <span className="gradient-text" style={{ fontFamily: '"Rubik Burned", system-ui;' }}>React and Next js Developer</span>
           <br />
-          <span className="text-white">& Creative </span>
-          <span className="gradient-text">Coder</span>
+          <span className="text-white" style={{ fontFamily: '"Rubik Burned", system-ui;' }}>& Creative </span>
+          <span className="gradient-text" style={{ fontFamily: '"Rubik Burned", system-ui;' }}>Coder</span>
         </h1>
 
         <p className="hero-description mt-4">
           I craft dynamic, engaging web experiences and passionate about clean code and seamless user interactions.
-          {/* I craft <span className="highlight">beautiful, interactive</span> web experiences
-          with modern technologies.
-          <br />
-          Passionate about clean code, stunning designs,
-          and seamless user experiences. */}
         </p>
 
         <div className="mt-5 d-flex justify-content-center gap-3 flex-wrap">

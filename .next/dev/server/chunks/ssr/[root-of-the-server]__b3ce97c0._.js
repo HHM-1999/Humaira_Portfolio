@@ -702,6 +702,9 @@ function Hero() {
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                             className: "gradient-text",
+                            style: {
+                                fontFamily: '"Rubik Burned", system-ui;'
+                            },
                             children: "React and Next js Developer"
                         }, void 0, false, {
                             fileName: "[project]/components/Hero.jsx",
@@ -715,6 +718,9 @@ function Hero() {
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                             className: "text-white",
+                            style: {
+                                fontFamily: '"Rubik Burned", system-ui;'
+                            },
                             children: "& Creative "
                         }, void 0, false, {
                             fileName: "[project]/components/Hero.jsx",
@@ -723,6 +729,9 @@ function Hero() {
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                             className: "gradient-text",
+                            style: {
+                                fontFamily: '"Rubik Burned", system-ui;'
+                            },
                             children: "Coder"
                         }, void 0, false, {
                             fileName: "[project]/components/Hero.jsx",
@@ -752,7 +761,7 @@ function Hero() {
                             children: "🚀 Explore My Universe"
                         }, void 0, false, {
                             fileName: "[project]/components/Hero.jsx",
-                            lineNumber: 27,
+                            lineNumber: 22,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -761,13 +770,13 @@ function Hero() {
                             children: "📄 Download CV"
                         }, void 0, false, {
                             fileName: "[project]/components/Hero.jsx",
-                            lineNumber: 31,
+                            lineNumber: 26,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/Hero.jsx",
-                    lineNumber: 26,
+                    lineNumber: 21,
                     columnNumber: 9
                 }, this)
             ]

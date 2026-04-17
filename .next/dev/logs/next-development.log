@@ -1,12 +1,48 @@
-[00:00:00.948] Server  LOG     ✓ Ready in 708ms
-[00:00:50.877] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:51.063] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:01:40.758] Server  LOG     ✓ Compiled in 29ms
-[00:03:34.482] Server  LOG     ✓ Compiled in 16ms
-[00:03:40.232] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:53.284] Server  LOG     ✓ Compiled in 44ms
-[00:03:57.057] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:57.165] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+[00:00:00.953] Server  LOG     ✓ Ready in 738ms
+[00:00:06.819] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:06.981] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:14:41.651] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? crossorigin crossOrigin
+[00:17:44.990] Browser ERROR   Style property values shouldn't contain a semicolon. Try "%s: %s" instead. fontFamily  "Rubik Burned", system-ui
+[00:17:49.616] Browser ERROR   Style property values shouldn't contain a semicolon. Try "%s: %s" instead. fontFamily "Rubik Burned", system-ui
+[00:17:53.501] Server  ERROR   Invalid DOM property `crossorigin`. Did you mean `crossOrigin`?
+[00:17:53.517] Server  ERROR   Style property values shouldn't contain a semicolon. Try "fontFamily: "Rubik Burned", system-ui" instead.
+[00:17:53.667] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:53.784] Browser WARN    Image with src "/_next/static/media/favicon.7399839b.ico" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:17:53.784] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:17:55.262] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:55.376] Browser WARN    Image with src "/_next/static/media/favicon.7399839b.ico" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:17:55.376] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:18:11.802] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? crossorigin crossOrigin
+[00:18:11.802] Browser ERROR   Style property values shouldn't contain a semicolon. Try "%s: %s" instead. fontFamily "Rubik Burned", system-ui
+[00:18:16.772] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:16.890] Browser WARN    Image with src "/_next/static/media/favicon.7399839b.ico" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:18:16.890] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:22:27.478] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? crossorigin crossOrigin
+[00:22:56.887] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+
+If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true crossOrigin crossOrigin true crossOrigin
+[00:22:59.053] Server  ERROR   Received `true` for a non-boolean attribute `crossOrigin`.
+
+If you want to write it to the DOM, pass a string instead: crossOrigin="true" or crossOrigin={value.toString()}.
+[00:22:59.220] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:59.335] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:22:59.335] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+
+If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true crossOrigin crossOrigin true crossOrigin
+[00:22:59.335] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:23:00.409] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:00.524] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+
+If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true crossOrigin crossOrigin true crossOrigin
+[00:23:00.524] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:23:01.491] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:01.606] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:23:01.606] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
 
 - A server/client branch `if (typeof window !== 'undefined')`.
 - Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
@@ -43,201 +79,18 @@ It can also happen if the client has a browser extension installed which messes 
                           >
                   ...
 
-[00:04:00.393] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:04:00.393] Browser ERROR   unhandledRejection: ChunkLoadError: Failed to load chunk /_next/static/chunks/%5Bturbopack%5D_browser_dev_hmr-client_hmr-client_ts_c8c997ce._.js from module [turbopack]/browser/dev/hmr-client/hmr-client.ts [app-client] (ecmascript, async loader)
-[00:10:43.627] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:24:53.638] Server  LOG     ✓ Compiled in 118ms
-[00:26:12.358] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:26:12.500] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:27:42.164] Server  LOG     ✓ Compiled in 11ms
-[00:27:50.398] Server  LOG     ✓ Compiled in 11ms
-[00:27:53.901] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:27:54.016] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[00:23:01.606] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+
+If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true crossOrigin crossOrigin true crossOrigin
+[00:23:01.606] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:23:12.224] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:12.339] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+
+If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true crossOrigin crossOrigin true crossOrigin
+[00:23:12.339] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:23:38.427] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:38.543] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:30:06.744] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:06.863] Browser WARN    Image with src "/_next/static/media/favicon.7399839b.ico" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:27:54.016] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:27:55.196] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:27:55.306] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:28:01.864] Server  LOG     ✓ Compiled in 10ms
-[00:28:07.314] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:28:07.423] Browser WARN    Image with src "/_next/static/media/favicon.7399839b.ico" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:28:07.423] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
-
-- A server/client branch `if (typeof window !== 'undefined')`.
-- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
-- Date formatting in a user's locale which doesn't match the server.
-- External changing data without sending a snapshot of it along with the HTML.
-- Invalid HTML tag nesting.
-
-It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
-
-%s%s https://react.dev/link/hydration-mismatch 
-
-  ...
-    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
-      <AppDevOverlayErrorBoundary globalError={[...]}>
-        <ReplaySsrOnlyErrors>
-        <DevRootHTTPAccessFallbackBoundary>
-          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
-            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
-              <RedirectBoundary>
-                <RedirectErrorBoundary router={{...}}>
-                  <Head>
-                  <__next_root_layout_boundary__>
-                    <SegmentViewNode type="layout" pagePath="layout.js">
-                      <SegmentTrieNode>
-                      <link>
-                      <script>
-                      <script>
-                      <RootLayout>
-                        <html lang="en">
-                          <head>
-                          <body
--                           data-new-gr-c-s-check-loaded="8.936.0"
--                           data-gr-ext-installed=""
-                          >
-                  ...
-
-[00:28:07.423] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:29:27.930] Server  LOG     ✓ Compiled in 15ms
-[00:29:31.771] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:29:31.887] Browser WARN    Image with src "/_next/static/media/favicon.7399839b.ico" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:29:31.887] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:29:32.833] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:29:32.946] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:30:01.077] Server  LOG     ✓ Compiled in 92ms
-[00:30:06.244] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:30:06.360] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:30:07.544] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:30:07.655] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:30:08.179] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:30:08.292] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:30:08.893] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:30:09.008] Browser WARN    Image with src "/_next/static/media/favicon.7399839b.ico" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:30:09.008] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
-
-- A server/client branch `if (typeof window !== 'undefined')`.
-- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
-- Date formatting in a user's locale which doesn't match the server.
-- External changing data without sending a snapshot of it along with the HTML.
-- Invalid HTML tag nesting.
-
-It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
-
-%s%s https://react.dev/link/hydration-mismatch 
-
-  ...
-    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
-      <AppDevOverlayErrorBoundary globalError={[...]}>
-        <ReplaySsrOnlyErrors>
-        <DevRootHTTPAccessFallbackBoundary>
-          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
-            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
-              <RedirectBoundary>
-                <RedirectErrorBoundary router={{...}}>
-                  <Head>
-                  <__next_root_layout_boundary__>
-                    <SegmentViewNode type="layout" pagePath="layout.js">
-                      <SegmentTrieNode>
-                      <link>
-                      <script>
-                      <script>
-                      <RootLayout>
-                        <html lang="en">
-                          <head>
-                          <body
--                           data-new-gr-c-s-check-loaded="8.936.0"
--                           data-gr-ext-installed=""
-                          >
-                  ...
-
-[00:30:09.008] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:30:09.839] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:30:09.949] Browser WARN    Image with src "/_next/static/media/favicon.7399839b.ico" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:30:09.949] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:30:24.583] Server  LOG     ✓ Compiled in 310ms
-[00:31:20.691] Server  LOG     ✓ Compiled in 19ms
-[00:31:41.068] Server  LOG     ✓ Compiled in 12ms
-[00:31:43.908] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:32:06.030] Server  LOG     ✓ Compiled in 8ms
-[00:34:16.786] Server  LOG     ✓ Compiled in 5ms
-[00:35:55.122] Server  ERROR   ⨯ ReferenceError: Link is not defined
-[00:35:57.035] Browser ERROR   uncaughtError: ReferenceError: Link is not defined
-[00:36:04.453] Server  ERROR   ⨯ ReferenceError: Link is not defined
-[00:36:04.728] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:36:04.728] Browser ERROR   uncaughtError: ReferenceError: Link is not defined
-[00:36:17.471] Browser ERROR   ./components/ProjectsSection.jsx:84:81
-Parsing ecmascript source code failed
-  82 |               </div>
-  83 |
-> 84 |               <Link href={p.sitelink}><div className="code">View Site</div></Li>
-     |                                                                                 ^
-> 85 |             </div>
-     | ^^^^^^^^^^^^^
-  86 |
-  87 |           </div>
-  88 |         ))}
-
-Expected '</', got 'jsx text'
-
-Import trace:
-  Server Component:
-    ./components/ProjectsSection.jsx
-    ./app/page.js
-[00:36:25.060] Server  LOG     ✓ Compiled in 174ms
-[00:36:25.314] Server  ERROR   ⨯ Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
-[00:36:25.471] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:36:27.514] Browser ERROR   uncaughtError: Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
-Open your browser's console to view the Component stack trace.
-[00:37:11.519] Server  LOG     ✓ Compiled in 12ms
-[00:37:11.670] Server  ERROR   ⨯ ReferenceError: $ is not defined
-[00:37:11.912] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:37:11.912] Browser ERROR   uncaughtError: ReferenceError: $ is not defined
-[00:37:52.813] Server  ERROR   ⨯ Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
-[00:37:52.969] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:37:53.898] Browser ERROR   uncaughtError: Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
-Open your browser's console to view the Component stack trace.
-[00:38:43.385] Server  LOG     ✓ Compiled in 24ms
-[00:38:43.777] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:38:45.754] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:38:46.802] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:39:28.311] Server  LOG     ✓ Compiled in 24ms
-[00:39:41.466] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:40:05.853] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:40:11.569] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:46:21.999] Server  LOG     ✓ Compiled in 106ms
-[00:47:27.711] Server  LOG     ✓ Compiled in 58ms
-[00:47:31.881] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:47:32.008] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:47:47.903] Server  LOG     ✓ Compiled in 6ms
-[00:47:53.622] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:47:53.735] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:49:38.988] Server  LOG     ✓ Compiled in 18ms
-[00:51:50.395] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:51:50.609] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:52:57.936] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:52:58.057] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:56:45.741] Server  LOG     ✓ Compiled in 90ms
-[00:57:07.834] Server  LOG     ✓ Compiled in 6ms
-[00:57:26.217] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:57:32.223] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:57:32.339] Browser WARN    Image with src "/_next/static/media/favicon.7399839b.ico" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:57:32.339] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:57:44.907] Server  LOG     ✓ Compiled in 10ms
-[00:57:49.906] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:57:50.027] Browser WARN    Image with src "/_next/static/media/favicon.7399839b.ico" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:57:50.027] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:57:57.840] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:57:57.952] Browser WARN    Image with src "/_next/static/media/favicon.7399839b.ico" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:57:57.952] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:59:39.703] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:59:39.823] Browser WARN    Image with src "/_next/static/media/favicon.7399839b.ico" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:59:39.823] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:30:06.863] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
