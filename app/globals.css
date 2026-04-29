@@ -174,7 +174,7 @@ body {
 
 /* =============== HERO section  ============ */
 .hero-section {
-  /* min-height: 100vh; */
+  min-height: 650px;
   position: relative;
   overflow: hidden;
   padding: 100px 0;
@@ -218,7 +218,7 @@ body {
 .hero-title {
   font-size: 65px;
   font-weight: 800;
-  line-height: 75px;
+  line-height: 85px;
   margin-top: 60px;
 
 }
@@ -233,9 +233,7 @@ body {
 /* Description */
 .hero-description {
   color: #bbb;
-  max-width: 800px;
-  margin: auto;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 
 .highlight {
@@ -489,7 +487,7 @@ hr {
 /* =================skill section============== */
 .skills-section {
   /* min-height: 100vh; */
-  background: #050505;
+  background: #4341414a;
   color: white;
   text-align: center;
   padding: 80px 20px;
@@ -516,8 +514,8 @@ hr {
   filter: blur(120px);
   opacity: .4;
   background: #a951b0;
-  width: 300px;
-  height: 300px;
+  /* width: 300px;
+  height: 300px; */
   position: absolute;
 }
 
@@ -878,9 +876,15 @@ footer {
   color: white;
 }
 
-/* ============ Responsive ============ */
-@media (max-width: 992px) {
+/* responsive */
+@media (max-width: 768px) {
   .hero-title {
-    font-size: 2.8rem;
+    font-size: 50px;
+    line-height: 60px;
+  }
+
+  .counter-area {
+    min-height: 120px;
+    margin-bottom: 20px;
   }
 }

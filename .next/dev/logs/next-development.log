@@ -1,96 +1,83 @@
-[00:00:00.953] Server  LOG     ✓ Ready in 738ms
-[00:00:06.819] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:06.981] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:14:41.651] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? crossorigin crossOrigin
-[00:17:44.990] Browser ERROR   Style property values shouldn't contain a semicolon. Try "%s: %s" instead. fontFamily  "Rubik Burned", system-ui
-[00:17:49.616] Browser ERROR   Style property values shouldn't contain a semicolon. Try "%s: %s" instead. fontFamily "Rubik Burned", system-ui
-[00:17:53.501] Server  ERROR   Invalid DOM property `crossorigin`. Did you mean `crossOrigin`?
-[00:17:53.517] Server  ERROR   Style property values shouldn't contain a semicolon. Try "fontFamily: "Rubik Burned", system-ui" instead.
-[00:17:53.667] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:17:53.784] Browser WARN    Image with src "/_next/static/media/favicon.7399839b.ico" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:17:53.784] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:17:55.262] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:17:55.376] Browser WARN    Image with src "/_next/static/media/favicon.7399839b.ico" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:17:55.376] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:18:11.802] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? crossorigin crossOrigin
-[00:18:11.802] Browser ERROR   Style property values shouldn't contain a semicolon. Try "%s: %s" instead. fontFamily "Rubik Burned", system-ui
-[00:18:16.772] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:18:16.890] Browser WARN    Image with src "/_next/static/media/favicon.7399839b.ico" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:18:16.890] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:22:27.478] Browser ERROR   Invalid DOM property `%s`. Did you mean `%s`? crossorigin crossOrigin
-[00:22:56.887] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+[00:00:00.789] Server  LOG     ✓ Ready in 581ms
+[00:00:03.872] Server  ERROR   ⨯ ./components/Hero.jsx:1:1
+Module not found: Can't resolve './cv.pdf'
+> 1 | import cv from './cv.pdf';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Hero() {
+  4 |   return (
 
-If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true crossOrigin crossOrigin true crossOrigin
-[00:22:59.053] Server  ERROR   Received `true` for a non-boolean attribute `crossOrigin`.
 
-If you want to write it to the DOM, pass a string instead: crossOrigin="true" or crossOrigin={value.toString()}.
-[00:22:59.220] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:22:59.335] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:22:59.335] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
 
-If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true crossOrigin crossOrigin true crossOrigin
-[00:22:59.335] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:23:00.409] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:23:00.524] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+Import trace:
+  Server Component:
+    ./components/Hero.jsx
+    ./app/page.js
 
-If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true crossOrigin crossOrigin true crossOrigin
-[00:23:00.524] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:23:01.491] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:23:01.606] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:23:01.606] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+https://nextjs.org/docs/messages/module-not-found
 
-- A server/client branch `if (typeof window !== 'undefined')`.
-- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
-- Date formatting in a user's locale which doesn't match the server.
-- External changing data without sending a snapshot of it along with the HTML.
-- Invalid HTML tag nesting.
 
-It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+[00:00:06.226] Browser ERROR   ./components/Hero.jsx:1:1
+Module not found: Can't resolve './cv.pdf'
+> 1 | import cv from './cv.pdf';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Hero() {
+  4 |   return (
 
-%s%s https://react.dev/link/hydration-mismatch 
+Import trace:
+  Server Component:
+    ./components/Hero.jsx
+    ./app/page.js
 
-  ...
-    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
-      <AppDevOverlayErrorBoundary globalError={[...]}>
-        <ReplaySsrOnlyErrors>
-        <DevRootHTTPAccessFallbackBoundary>
-          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
-            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
-              <RedirectBoundary>
-                <RedirectErrorBoundary router={{...}}>
-                  <Head>
-                  <__next_root_layout_boundary__>
-                    <SegmentViewNode type="layout" pagePath="layout.js">
-                      <SegmentTrieNode>
-                      <link>
-                      <script>
-                      <script>
-                      <RootLayout>
-                        <html lang="en">
-                          <head>
-                          <body
--                           data-new-gr-c-s-check-loaded="8.936.0"
--                           data-gr-ext-installed=""
-                          >
-                  ...
+https://nextjs.org/docs/messages/module-not-found
+[00:00:06.226] Browser ERROR   ./components/Hero.jsx:1:1
+Module not found: Can't resolve './cv.pdf'
+> 1 | import cv from './cv.pdf';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Hero() {
+  4 |   return (
 
-[00:23:01.606] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+Import trace:
+  Server Component:
+    ./components/Hero.jsx
+    ./app/page.js
 
-If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true crossOrigin crossOrigin true crossOrigin
-[00:23:01.606] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:23:12.224] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:23:12.339] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+https://nextjs.org/docs/messages/module-not-found
+[00:00:06.226] Browser ERROR   uncaughtError: Error: ./components/Hero.jsx:1:1
+Module not found: Can't resolve './cv.pdf'
+> 1 | import cv from './cv.pdf';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Hero() {
+  4 |   return (
 
-If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true crossOrigin crossOrigin true crossOrigin
-[00:23:12.339] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:23:38.427] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:23:38.543] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:30:06.744] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:30:06.863] Browser WARN    Image with src "/_next/static/media/favicon.7399839b.ico" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:30:06.863] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+
+
+Import trace:
+  Server Component:
+    ./components/Hero.jsx
+    ./app/page.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:06.226] Browser ERROR   ./components/Hero.jsx:1:1
+Module not found: Can't resolve './cv.pdf'
+> 1 | import cv from './cv.pdf';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Hero() {
+  4 |   return (
+
+Import trace:
+  Server Component:
+    ./components/Hero.jsx
+    ./app/page.js
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:27.473] Server  ERROR   Style property values shouldn't contain a semicolon. Try "fontFamily: "Rubik Burned", system-ui" instead.
+[00:00:27.787] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:29.681] Browser WARN    Image with src "/_next/static/media/profileimg.d4d224b4.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:36.199] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

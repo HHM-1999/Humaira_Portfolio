@@ -151,6 +151,7 @@ body {
   text-align: center;
   background: linear-gradient(135deg, #111, #222);
   align-items: center;
+  min-height: 650px;
   padding: 100px 0;
   display: flex;
   position: relative;
@@ -186,7 +187,7 @@ body {
   margin-top: 60px;
   font-size: 65px;
   font-weight: 800;
-  line-height: 75px;
+  line-height: 85px;
 }
 
 .gradient-text {
@@ -197,9 +198,7 @@ body {
 
 .hero-description {
   color: #bbb;
-  max-width: 800px;
-  margin: auto;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 
 .highlight {
@@ -434,7 +433,7 @@ hr {
 .skills-section {
   color: #fff;
   text-align: center;
-  background: #050505;
+  background: #4341414a;
   padding: 80px 20px;
   position: relative;
   overflow: hidden;
@@ -444,8 +443,6 @@ hr {
   filter: blur(120px);
   opacity: .4;
   background: #a951b0;
-  width: 300px;
-  height: 300px;
   position: absolute;
 }
 
@@ -766,9 +763,15 @@ footer {
   background: #111;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 768px) {
   .hero-title {
-    font-size: 2.8rem;
+    font-size: 50px;
+    line-height: 60px;
+  }
+
+  .counter-area {
+    min-height: 120px;
+    margin-bottom: 20px;
   }
 }
 

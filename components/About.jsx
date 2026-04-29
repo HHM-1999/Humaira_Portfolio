@@ -61,13 +61,13 @@ export default function AboutMe() {
               </p>
             </div>
             <div className="row gx-4 mt-4">
-              <div className="col-lg-6 text-start">
+              <div className="col-lg-6 col-6 text-start">
                 <div className="counter-area">
                   <h4 className="text-white">{years}+</h4>
                   <p>Years Experience</p>
                 </div>
               </div>
-              <div className="col-lg-6 ">
+              <div className="col-lg-6 col-6">
                 <div className="counter-area">
                   <h4>{projects}+</h4>
                   <p>Projects Completed</p>

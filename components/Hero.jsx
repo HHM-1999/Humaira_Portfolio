@@ -1,3 +1,4 @@
+
 export default function Hero() {
   return (
     <section className="hero-section d-flex align-items-center">
@@ -23,7 +24,7 @@ export default function Hero() {
             🚀 Explore My Universe
           </a>
 
-          <a href="#" className="btn secondary-btn">
+          <a href="/cv.pdf" download className="btn secondary-btn">
             📄 Download CV
           </a>
         </div>
